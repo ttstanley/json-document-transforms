@@ -7,7 +7,7 @@ namespace Microsoft.VisualStudio.Jdt
     using Newtonsoft.Json;
 
     /// <summary>
-    /// The file that caused the exception
+    /// The file that caused the exception.
     /// </summary>
     public enum ErrorLocation
     {
